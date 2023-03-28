@@ -6,5 +6,4 @@ container.appendChild(content)
 
 const grid = content.createElement('div')
 grid.classList.add('grid')
-container.appendChild(grid)
-
+container.appendChild(grid);
